@@ -1,0 +1,95 @@
+{
+  "total_rows": 41,
+  "offset": 0,
+  "rows": [{
+      "id": "1023",
+      "key": "1023",
+      "value": {
+        "rev": "1-e61d156a503cd4d9ae73debd9bc2b035"
+      },
+      "doc": {
+        "_id": "1023",
+        "_rev": "1-e61d156a503cd4d9ae73debd9bc2b035",
+        "url": "https://www.gutenberg.org/ebooks/1023",
+        "title": "Bleak House",
+        "author": "Charles Dickens",
+        "year": 1853,
+        "db_name": "ebook_1023",
+        "download_url": "http://www.gutenberg.org/cache/epub/1023/pg1023.txt",
+        "num_docs": 369
+      }
+    },
+    {
+      "id": "105",
+      "key": "105",
+      "value": {
+        "rev": "1-3caf979350d7ebfbf5bbd11b76f8dffb"
+      },
+      "doc": {
+        "_id": "105",
+        "_rev": "1-3caf979350d7ebfbf5bbd11b76f8dffb",
+        "url": "https://www.gutenberg.org/ebooks/105",
+        "title": "Persuasion",
+        "author": "Jane Austen",
+        "year": 1818,
+        "db_name": "ebook_105",
+        "download_url": "http://www.gutenberg.org/cache/epub/105/pg105.txt",
+        "num_docs": 55
+      }
+    },
+    {
+      "id": "110",
+      "key": "110",
+      "value": {
+        "rev": "1-9d39271c1b7738d9997ae7b319852cf4"
+      },
+      "doc": {
+        "_id": "110",
+        "_rev": "1-9d39271c1b7738d9997ae7b319852cf4",
+        "url": "https://www.gutenberg.org/ebooks/110",
+        "title": "Tess of the d'Urbervilles",
+        "author": "Thomas Hardy",
+        "year": 1891,
+        "db_name": "ebook_110",
+        "download_url": "http://www.gutenberg.org/cache/epub/110/pg110.txt",
+        "num_docs": 168
+      }
+    },
+    {
+      "id": "121",
+      "key": "121",
+      "value": {
+        "rev": "1-39a0630db24e940300b29c454f2caa71"
+      },
+      "doc": {
+        "_id": "121",
+        "_rev": "1-39a0630db24e940300b29c454f2caa71",
+        "url": "https://www.gutenberg.org/ebooks/121",
+        "title": "Northanger Abbey",
+        "author": "Jane Austen",
+        "year": 1818,
+        "db_name": "ebook_121",
+        "download_url": "http://www.gutenberg.org/cache/epub/121/pg121.txt",
+        "num_docs": 56
+      }
+    },
+    {
+      "id": "1260",
+      "key": "1260",
+      "value": {
+        "rev": "1-d68286efc7edb47ecfa6f5206cad3ae9"
+      },
+      "doc": {
+        "_id": "1260",
+        "_rev": "1-d68286efc7edb47ecfa6f5206cad3ae9",
+        "url": "https://www.gutenberg.org/ebooks/1260",
+        "title": "Jane Eyre",
+        "author": "Charlotte BrontÃ«",
+        "year": 1847,
+        "db_name": "ebook_1260",
+        "download_url": "http://www.gutenberg.org/cache/epub/1260/pg1260.txt",
+        "num_docs": 209
+      }
+    }
+  ]
+}
