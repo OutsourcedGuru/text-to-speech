@@ -17,3 +17,8 @@ Some browsers like Safari now block audio/video content from automatically playi
 * Refer to `books.json` for **id**s represented
 * Exercise the routes given in Express to review the interface, noting that the up/down buttons don't change the page navigation; simply enter a different URL to test each route
 * Finish the generator function in `read.js` to make this functional
+
+|Donate||Cryptocurrency|
+|:-----:|---|:--------:|
+| ![eth-receive](https://user-images.githubusercontent.com/15971213/40564950-932d4d10-601f-11e8-90f0-459f8b32f01c.png) || ![btc-receive](https://user-images.githubusercontent.com/15971213/40564971-a2826002-601f-11e8-8d5e-eeb35ab53300.png) |
+|Ethereum||Bitcoin|
