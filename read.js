@@ -59,6 +59,16 @@ exports.book = function(ordBook, callback) {
 
 exports.paragraph = function* () {
   // Write your code here
+  var thisParagraph = "";
+  do {
+    thisParagraph = _arrayBookData[_ptrParagraph++];
+    // Skip blank lines
+    if (thisParagraph == '') {
+      thisParagraph = _arrayBookData[_ptrParagraph++];
+    }
+    yield thisParagraph;
+  } while (_ptrParagraph <= _arrayBookData.length);
+  return null;  // Returning without a yield triggers the paragraph.next().done boolean
 
 
 } // paragraph*()
